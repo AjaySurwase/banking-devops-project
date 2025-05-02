@@ -75,3 +75,4 @@ variable "local_table_name" {
   description = "local table name"
   type        = string
 }
+
